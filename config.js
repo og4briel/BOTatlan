@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["555199571240@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '555199571240' 
 // mude para seu numero
 
 var gimagenotregister = false
@@ -13,7 +13,7 @@ var sgooglenotregister = false
 const antinewchatmsg = 'O anti chat novo está ativado e você não é meu proprietário, logo será bloqueado'
 //mensagem do antinewchat
 
-const urlaudiomenu = 'https://b.top4top.io/m_19923zx481.mp3'
+const urlaudiomenu = 'https://j.top4top.io/m_2007bc4a37.mp3'
 // link direto da url do audio
 
 const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
@@ -37,7 +37,7 @@ const byemsgimg = (numero, groupname) => {
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const menumsgimg = (numero, groupname, battery) => {
-    return `MENU DO BRIZAS-BOT COM 434 COMANDOS, BATERIA: ${battery}`
+    return `MENU DO BOT COM 434 COMANDOS, BATERIA: ${battery}`
 }
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
@@ -61,7 +61,7 @@ const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️\n' 
+const cr = '✨ 𝐁𝐎𝐓 𝐀𝐓𝐋𝐀𝐍𝐓𝐈𝐃𝐀 ✨\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -162,9 +162,9 @@ let mess = {
 
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
-+ 'FN:Meu criador^~^\n' 
-+ 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
++ 'FN:Meu editor\n' 
++ 'ORG:Biel;\n' 
++ 'TEL;type=CELL;type=VOICE;waid=555199571240:+55 51 9957-1240\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
